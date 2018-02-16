@@ -1,4 +1,4 @@
-# Facebook Personal Chatbot
+﻿# Facebook Personal Chatbot
 ### Download: https://nodejs.org
 ### login
 
@@ -14,7 +14,7 @@ login({email: "FB_EMAIL", password: "FB_PASSWORD"}, (err, api) => {
     fs.writeFileSync('appstate.json', JSON.stringify(api.getAppState()));
 });
 ```
-
+sdfsdfsds
 __Đăng nhập bằng Cookie__
 
 ```js
